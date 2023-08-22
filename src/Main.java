@@ -6,5 +6,6 @@ public class Main {
         int[] arr={10,20,3};
         int[] arr2=new int[10];
         System.out.println(arr2[2]);
+        System.out.println();
     }
 }
